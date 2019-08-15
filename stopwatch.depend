@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1565254894 source:m:\study\emb-study\my_proj.s\stopwatch\stopwatch.c
+	"main.h"
+	"Port.h"
+	"Timer.h"
+
+1565254196 source:m:\study\emb-study\my_proj.s\stopwatch\timer.c
+	"Timer.h"
+	"main.h"
+	"Port.h"
+
+1565253870 m:\study\emb-study\my_proj.s\stopwatch\timer.h
+	"Port.h"
+
+1565250495 m:\study\emb-study\my_proj.s\stopwatch\port.h
+	"main.h"
+
+1565252257 m:\study\emb-study\my_proj.s\stopwatch\main.h
+	<pic16f877a.h>
+
